@@ -1,0 +1,28 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+#counterLabel{
+    display: block;
+    text-align: center;
+    font-size: 5em;
+
+}
+
+.buttons{
+    padding: 10px;
+    color:black;
+    background-color: aquamarine;
+    transition: background-color 0.25s;
+    cursor: pointer;
+}
+
+.buttons:hover{
+    background-color: blue;
+}
+#btnContainer{
+    
+    text-align:center;
+
+}
